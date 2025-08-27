@@ -8,8 +8,6 @@ Moqa Studio – the leading AI Boilerplates
 
 📚 We also publish free resources for learning how to build scalable AI applications.
 
-💡 Our mission: help you go from prototype → product → scale with the right AI foundations.
-
 🤝 Stay in touch
 
 Website: moqa.studio
